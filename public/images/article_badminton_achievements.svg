@@ -1,0 +1,21 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="badmintonBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#065f46"/>
+      <stop offset="50%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#badmintonBg)"/>
+  <line x1="100" y1="420" x2="700" y2="420" stroke="#ffffff" stroke-width="4" stroke-opacity="0.5"/>
+  <line x1="100" y1="450" x2="700" y2="450" stroke="#ffffff" stroke-width="2" stroke-opacity="0.3"/>
+  <circle cx="400" cy="310" r="14" fill="#facc15"/>
+  <polygon points="400,310 360,230 440,230" fill="#ffffff" opacity="0.8"/>
+  <line x1="360" y1="230" x2="440" y2="230" stroke="#facc15" stroke-width="3"/>
+  <circle cx="340" cy="270" r="35" stroke="#f59e0b" stroke-width="6" fill="none"/>
+  <circle cx="460" cy="270" r="35" stroke="#38bdf8" stroke-width="6" fill="none"/>
+  <rect x="60" y="60" width="240" height="34" rx="17" fill="#10b981" opacity="0.9"/>
+  <text x="180" y="82" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">INDIAN SHUTTLE LEGENDS</text>
+  <text x="400" y="160" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">Thomas Cup Champions &amp; World No. 1</text>
+  <text x="400" y="520" font-family="Arial, sans-serif" font-size="18" fill="#a7f3d0" text-anchor="middle">PV Sindhu · Saina Nehwal · Satwik-Chirag Duo</text>
+</svg>

@@ -3,41 +3,54 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FitLife Journal – Move Better. Eat Better. Live Better.</title>
-    <meta name="description" content="Evidence-informed health and fitness educational blog offering practical beginner workout guides, balanced nutrition tips, recovery strategies, and sustainable wellness habits." />
-    <meta property="og:site_name" content="FitLife Journal" />
-    <meta property="og:title" content="FitLife Journal – Move Better. Eat Better. Live Better." />
-    <meta property="og:description" content="Discover practical workout guides, balanced nutrition tips, and simple daily habits to help you build a healthier lifestyle." />
+    <title>India Sports Hub: Olympic Medals, Schedules & Star Heroes</title>
+    <meta name="description" content="Comprehensive Indian sport news hub tracking Indian sports achievements, Olympic schedules, medal tallies, and star heroes across Indian sports cricket and games." />
+    <meta name="keywords" content="Indian sport news, Indian sports achievements, Indian sports cricket, India at olympics, Lakshya Sen, Indian hockey achievements" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    
+    <link rel="canonical" href="https://indiasportshub.vercel.app/" id="canonical-link" />
+    
+    <!-- OpenGraph Metadata -->
+    <meta property="og:site_name" content="India Sports Hub" />
+    <meta property="og:title" content="India Sports Hub: Olympic Medals, Schedules & Star Heroes" />
+    <meta property="og:description" content="Comprehensive Indian sport news hub tracking Indian sports achievements, Olympic schedules, medal tallies, and star heroes across Indian sports cricket and games." />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://indiasportshub.vercel.app/" />
+    <meta property="og:image" content="/images/hero_indian_sports.webp" />
+    <meta property="og:image:alt" content="Indian athletes celebrating an international tournament victory in blue jerseys with national tricolor flag" />
+
+    <!-- Twitter Card Metadata -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="FitLife Journal – Move Better. Eat Better. Live Better." />
-    <meta name="twitter:description" content="Practical workout guides, balanced nutrition tips, and healthy lifestyle habits." />
+    <meta name="twitter:title" content="India Sports Hub: Olympic Medals, Schedules & Star Heroes" />
+    <meta name="twitter:description" content="Tracking Indian sports achievements, Olympic schedules, medal tallies, and star heroes across Indian sports cricket and games." />
+    <meta name="twitter:image" content="/images/hero_indian_sports.webp" />
 
     <!-- Google Fonts: Plus Jakarta Sans & Outfit -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800;900&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
 
-    <!-- Schema.org Blog & Organization Structured Data -->
+    <!-- Schema.org WebSite & SportsOrganization Structured Data -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Blog",
-      "name": "FitLife Journal",
-      "url": "https://fitlife-journal.edu",
-      "description": "Educational health and fitness blog providing evidence-informed workout routines, balanced nutrition guidelines, and sustainable wellness habits.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "FitLife Journal Editorial Team",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://fitlife-journal.edu/logo.png"
-        }
+      "@type": "WebSite",
+      "name": "India Sports Hub",
+      "alternateName": ["IndiaSportsHub", "India Sports News"],
+      "url": "https://indiasportshub.vercel.app/",
+      "description": "Comprehensive Indian sport news hub tracking Indian sports achievements, Olympic schedules, medal tallies, and star heroes.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://indiasportshub.vercel.app/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
       }
     }
     </script>
   </head>
-  <body class="bg-[#FAFAFA] text-[#1F2937] font-sans antialiased selection:bg-emerald-100 selection:text-emerald-900">
+  <body class="bg-[#F8FAFC] text-[#0F172A] font-sans antialiased selection:bg-orange-100 selection:text-orange-900">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>

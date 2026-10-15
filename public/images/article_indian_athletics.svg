@@ -1,0 +1,22 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="athleticsBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="50%" stop-color="#78350f"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#athleticsBg)"/>
+  <path d="M 50 550 Q 400 350 750 550" stroke="#ef4444" stroke-width="12" fill="none" opacity="0.6"/>
+  <path d="M 50 520 Q 400 320 750 520" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M 50 490 Q 400 290 750 490" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.7"/>
+  <line x1="200" y1="460" x2="560" y2="220" stroke="#fef08a" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="560,220 540,225 545,240" fill="#fde047"/>
+  <line x1="180" y1="480" x2="380" y2="350" stroke="#ff9933" stroke-width="4" stroke-opacity="0.8"/>
+  <line x1="190" y1="490" x2="390" y2="360" stroke="#ffffff" stroke-width="4" stroke-opacity="0.8"/>
+  <line x1="200" y1="500" x2="400" y2="370" stroke="#138808" stroke-width="4" stroke-opacity="0.8"/>
+  <rect x="60" y="60" width="250" height="34" rx="17" fill="#f59e0b" opacity="0.9"/>
+  <text x="185" y="82" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a" text-anchor="middle">INDIAN TRACK &amp; FIELD</text>
+  <text x="400" y="160" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">Golden Throws &amp; Track Milestones</text>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="18" fill="#fde68a" text-anchor="middle">Neeraj Chopra · Avinash Sable · World Champions</text>
+</svg>

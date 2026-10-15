@@ -1,0 +1,20 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wcricketBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#wcricketBg)"/>
+  <path d="M 370 280 L 430 280 L 420 420 L 380 420 Z" fill="#fbbf24"/>
+  <path d="M 350 300 Q 320 340 375 360" stroke="#f59e0b" stroke-width="6" fill="none"/>
+  <path d="M 450 300 Q 480 340 425 360" stroke="#f59e0b" stroke-width="6" fill="none"/>
+  <rect x="360" y="420" width="80" height="25" rx="4" fill="#d97706"/>
+  <circle cx="400" cy="240" r="30" fill="#f43f5e" opacity="0.8"/>
+  <text x="400" y="246" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">WPL</text>
+  <rect x="60" y="60" width="240" height="34" rx="17" fill="#ec4899" opacity="0.9"/>
+  <text x="180" y="82" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">WOMEN IN BLUE CRICKET</text>
+  <text x="400" y="160" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">Empowering Indian Women's Cricket</text>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fed7aa" text-anchor="middle">Harmanpreet Kaur · Smriti Mandhana · WPL Era</text>
+</svg>

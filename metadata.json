@@ -1,6 +1,6 @@
 {
-  "name": "FitLife Journal",
-  "description": "FitLife Journal – Move Better. Eat Better. Live Better. Evidence-informed workout guides, balanced nutrition tips, and everyday wellness habits.",
+  "name": "India Sports Hub",
+  "description": "India Sports Hub – Complete coverage of Indian sport news, Olympic medals, Asian Games records, cricket, badminton, hockey, and star athletes.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
