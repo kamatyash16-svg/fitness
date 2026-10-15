@@ -13,7 +13,7 @@ export const HeroSection: React.FC = () => {
         <div className="absolute inset-0 z-0">
           {!imgError ? (
             <img
-              src="/src/assets/images/hero_fitness_outdoor_1792029497983.jpg"
+              src="/images/hero_fitness_outdoor_1792029497983.jpg"
               alt="An athletic runner jogging along a scenic green park trail at golden hour sunrise"
               loading="eager"
               referrerPolicy="no-referrer"
