@@ -1,0 +1,6 @@
+{
+  "name": "FitLife Journal",
+  "description": "FitLife Journal – Move Better. Eat Better. Live Better. Evidence-informed workout guides, balanced nutrition tips, and everyday wellness habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

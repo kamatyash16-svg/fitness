@@ -1,0 +1,5 @@
+# FitLife Journal – robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://fitlife-journal.edu/sitemap.xml
